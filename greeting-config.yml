@@ -7,3 +7,6 @@ management:
 logging:
     level:
         ROOT: DEBUG
+greeting:
+    displayFortune: true
+
